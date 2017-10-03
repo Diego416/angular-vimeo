@@ -1,0 +1,8 @@
+.menu {
+    float: left;
+    border: 1px solid #185BAE;
+    background-color: #4D6FF3;
+    width: 30%;
+    height: 100%;
+    color: white;
+}
